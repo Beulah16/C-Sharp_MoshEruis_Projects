@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\bin\Debug\net7.0\Arr_Assign1.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\bin\Debug\net7.0\Arr_Assign1.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\bin\Debug\net7.0\Arr_Assign1.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\bin\Debug\net7.0\Arr_Assign1.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\bin\Debug\net7.0\Arr_Assign1.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\refint\Arr_Assign1.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\Arr_Assign1.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Arr_Assign1\obj\Debug\net7.0\ref\Arr_Assign1.dll

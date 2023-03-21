@@ -4,6 +4,7 @@ class OccuringOdd
 {
 	public static void Main()
 	{
+		//Find the number occuring odd number of times
 		int[] arr = {2, 3, 5, 4, 5, 2, 4, 3, 5, 2, 4, 4, 2,};
 		int count2 = 0;
 		int count3 = 0;

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\bin\Debug\net7.0\Occuring_Odd.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\bin\Debug\net7.0\Occuring_Odd.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\bin\Debug\net7.0\Occuring_Odd.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\bin\Debug\net7.0\Occuring_Odd.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\bin\Debug\net7.0\Occuring_Odd.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\refint\Occuring_Odd.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\Occuring_Odd.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Occuring_Odd\obj\Debug\net7.0\ref\Occuring_Odd.dll

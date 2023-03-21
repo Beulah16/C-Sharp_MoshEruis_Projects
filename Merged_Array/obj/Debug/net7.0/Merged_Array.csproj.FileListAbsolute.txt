@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\bin\Debug\net7.0\Merged_Array.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\bin\Debug\net7.0\Merged_Array.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\bin\Debug\net7.0\Merged_Array.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\bin\Debug\net7.0\Merged_Array.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\bin\Debug\net7.0\Merged_Array.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\refint\Merged_Array.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\Merged_Array.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Merged_Array\obj\Debug\net7.0\ref\Merged_Array.dll

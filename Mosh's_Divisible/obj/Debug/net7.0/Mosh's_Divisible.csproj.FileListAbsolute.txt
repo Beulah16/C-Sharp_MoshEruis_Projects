@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\bin\Debug\net7.0\Mosh's_Divisible.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\bin\Debug\net7.0\Mosh's_Divisible.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\bin\Debug\net7.0\Mosh's_Divisible.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\bin\Debug\net7.0\Mosh's_Divisible.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\bin\Debug\net7.0\Mosh's_Divisible.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\refint\Mosh's_Divisible.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\Mosh's_Divisible.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Divisible\obj\Debug\net7.0\ref\Mosh's_Divisible.dll

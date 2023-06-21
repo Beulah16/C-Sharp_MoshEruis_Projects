@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\bin\Debug\net7.0\Mosh's_Continous.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\bin\Debug\net7.0\Mosh's_Continous.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\bin\Debug\net7.0\Mosh's_Continous.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\bin\Debug\net7.0\Mosh's_Continous.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\bin\Debug\net7.0\Mosh's_Continous.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\refint\Mosh's_Continous.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\Mosh's_Continous.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Continous\obj\Debug\net7.0\ref\Mosh's_Continous.dll

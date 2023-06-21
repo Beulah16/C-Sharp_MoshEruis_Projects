@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\bin\Debug\net7.0\Mosh's_Wideight.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\bin\Debug\net7.0\Mosh's_Wideight.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\bin\Debug\net7.0\Mosh's_Wideight.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\bin\Debug\net7.0\Mosh's_Wideight.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\bin\Debug\net7.0\Mosh's_Wideight.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\refint\Mosh's_Wideight.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\Mosh's_Wideight.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Wideight\obj\Debug\net7.0\ref\Mosh's_Wideight.dll

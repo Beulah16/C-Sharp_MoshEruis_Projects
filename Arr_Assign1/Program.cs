@@ -18,7 +18,7 @@ namespace Exercices
 			 */
 			Console.WriteLine("Solution 1");
 			Console.WriteLine("Input 10 elements in the array");
-			int[] arr = new int[10];
+			var arr = new int[10];
 			for (int i = 0; i < arr.Length; i++)
 			{
 				arr[i] = Convert.ToInt32(Console.ReadLine());

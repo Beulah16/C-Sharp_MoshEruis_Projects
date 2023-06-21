@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\bin\Debug\net7.0\Mosh's_SpeedLimit.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\bin\Debug\net7.0\Mosh's_SpeedLimit.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\bin\Debug\net7.0\Mosh's_SpeedLimit.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\bin\Debug\net7.0\Mosh's_SpeedLimit.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\bin\Debug\net7.0\Mosh's_SpeedLimit.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\refint\Mosh's_SpeedLimit.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\Mosh's_SpeedLimit.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_SpeedLimit\obj\Debug\net7.0\ref\Mosh's_SpeedLimit.dll

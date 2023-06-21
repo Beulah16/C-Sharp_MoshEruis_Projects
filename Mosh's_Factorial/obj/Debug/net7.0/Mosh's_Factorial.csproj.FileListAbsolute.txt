@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\bin\Debug\net7.0\Mosh's_Factorial.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\bin\Debug\net7.0\Mosh's_Factorial.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\bin\Debug\net7.0\Mosh's_Factorial.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\bin\Debug\net7.0\Mosh's_Factorial.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\bin\Debug\net7.0\Mosh's_Factorial.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\refint\Mosh's_Factorial.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\Mosh's_Factorial.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Factorial\obj\Debug\net7.0\ref\Mosh's_Factorial.dll

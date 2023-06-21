@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\bin\Debug\net7.0\Mosh's_MaxNum.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\bin\Debug\net7.0\Mosh's_MaxNum.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\bin\Debug\net7.0\Mosh's_MaxNum.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\bin\Debug\net7.0\Mosh's_MaxNum.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\bin\Debug\net7.0\Mosh's_MaxNum.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\refint\Mosh's_MaxNum.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\Mosh's_MaxNum.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxNum\obj\Debug\net7.0\ref\Mosh's_MaxNum.dll

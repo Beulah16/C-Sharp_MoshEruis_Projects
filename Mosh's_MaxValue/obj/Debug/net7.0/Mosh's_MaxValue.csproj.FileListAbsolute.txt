@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\bin\Debug\net7.0\Mosh's_MaxValue.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\bin\Debug\net7.0\Mosh's_MaxValue.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\bin\Debug\net7.0\Mosh's_MaxValue.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\bin\Debug\net7.0\Mosh's_MaxValue.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\bin\Debug\net7.0\Mosh's_MaxValue.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\refint\Mosh's_MaxValue.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\Mosh's_MaxValue.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_MaxValue\obj\Debug\net7.0\ref\Mosh's_MaxValue.dll

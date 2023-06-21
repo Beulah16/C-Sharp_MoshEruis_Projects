@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ConditonalSolutions\obj\Debug\net7.0\Mosh's_ConditonalSolutions.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ConditonalSolutions\obj\Debug\net7.0\Mosh's_ConditonalSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ConditonalSolutions\obj\Debug\net7.0\Mosh's_ConditonalSolutions.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ConditonalSolutions\obj\Debug\net7.0\Mosh's_ConditonalSolutions.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ConditonalSolutions\obj\Debug\net7.0\Mosh's_ConditonalSolutions.csproj.CoreCompileInputs.cache

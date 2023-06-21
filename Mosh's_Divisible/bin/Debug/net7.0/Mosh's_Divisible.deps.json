@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Mosh's_Divisible/1.0.0": {
+        "runtime": {
+          "Mosh's_Divisible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mosh's_Divisible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

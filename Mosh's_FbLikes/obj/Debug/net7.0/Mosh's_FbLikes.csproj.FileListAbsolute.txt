@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\bin\Debug\net7.0\Mosh's_FbLikes.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\bin\Debug\net7.0\Mosh's_FbLikes.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\bin\Debug\net7.0\Mosh's_FbLikes.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\bin\Debug\net7.0\Mosh's_FbLikes.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\bin\Debug\net7.0\Mosh's_FbLikes.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\refint\Mosh's_FbLikes.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\Mosh's_FbLikes.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FbLikes\obj\Debug\net7.0\ref\Mosh's_FbLikes.dll

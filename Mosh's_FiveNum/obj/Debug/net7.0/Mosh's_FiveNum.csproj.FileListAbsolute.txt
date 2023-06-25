@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\bin\Debug\net7.0\Mosh's_FiveNum.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\bin\Debug\net7.0\Mosh's_FiveNum.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\bin\Debug\net7.0\Mosh's_FiveNum.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\bin\Debug\net7.0\Mosh's_FiveNum.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\bin\Debug\net7.0\Mosh's_FiveNum.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\refint\Mosh's_FiveNum.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\Mosh's_FiveNum.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_FiveNum\obj\Debug\net7.0\ref\Mosh's_FiveNum.dll

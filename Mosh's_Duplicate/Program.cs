@@ -12,9 +12,7 @@ namespace Mosh
               
            Console.Write("Enter a series of hyphen separated numbers: ");
            var nums = Console.ReadLine();
-           if(String.IsNullOrWhiteSpace(nums))
-           {
-           }
+           if(String.IsNullOrWhiteSpace(nums)){return;}
            else
            {
             var newNums = nums.Split('-');

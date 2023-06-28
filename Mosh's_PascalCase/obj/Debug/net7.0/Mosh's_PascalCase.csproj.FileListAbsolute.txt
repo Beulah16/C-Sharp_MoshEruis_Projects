@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\bin\Debug\net7.0\Mosh's_PascalCase.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\bin\Debug\net7.0\Mosh's_PascalCase.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\bin\Debug\net7.0\Mosh's_PascalCase.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\bin\Debug\net7.0\Mosh's_PascalCase.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\bin\Debug\net7.0\Mosh's_PascalCase.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\refint\Mosh's_PascalCase.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\Mosh's_PascalCase.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_PascalCase\obj\Debug\net7.0\ref\Mosh's_PascalCase.dll

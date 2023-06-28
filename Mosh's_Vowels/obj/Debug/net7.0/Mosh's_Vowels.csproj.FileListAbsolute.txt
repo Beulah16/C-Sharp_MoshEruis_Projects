@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\bin\Debug\net7.0\Mosh's_Vowels.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\bin\Debug\net7.0\Mosh's_Vowels.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\bin\Debug\net7.0\Mosh's_Vowels.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\bin\Debug\net7.0\Mosh's_Vowels.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\bin\Debug\net7.0\Mosh's_Vowels.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\refint\Mosh's_Vowels.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\Mosh's_Vowels.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Vowels\obj\Debug\net7.0\ref\Mosh's_Vowels.dll

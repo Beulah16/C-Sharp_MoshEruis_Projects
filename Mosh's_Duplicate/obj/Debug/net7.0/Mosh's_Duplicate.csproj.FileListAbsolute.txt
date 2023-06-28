@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\bin\Debug\net7.0\Mosh's_Duplicate.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\bin\Debug\net7.0\Mosh's_Duplicate.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\bin\Debug\net7.0\Mosh's_Duplicate.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\bin\Debug\net7.0\Mosh's_Duplicate.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\bin\Debug\net7.0\Mosh's_Duplicate.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\refint\Mosh's_Duplicate.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\Mosh's_Duplicate.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Duplicate\obj\Debug\net7.0\ref\Mosh's_Duplicate.dll

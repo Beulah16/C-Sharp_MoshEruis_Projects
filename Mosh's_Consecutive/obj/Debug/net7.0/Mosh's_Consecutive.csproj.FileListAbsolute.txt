@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\bin\Debug\net7.0\Mosh's_Consecutive.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\bin\Debug\net7.0\Mosh's_Consecutive.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\bin\Debug\net7.0\Mosh's_Consecutive.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\bin\Debug\net7.0\Mosh's_Consecutive.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\bin\Debug\net7.0\Mosh's_Consecutive.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\refint\Mosh's_Consecutive.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\Mosh's_Consecutive.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Consecutive\obj\Debug\net7.0\ref\Mosh's_Consecutive.dll

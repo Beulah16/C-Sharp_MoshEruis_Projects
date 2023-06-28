@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\bin\Debug\net7.0\Mosh's_ValidTime.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\bin\Debug\net7.0\Mosh's_ValidTime.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\bin\Debug\net7.0\Mosh's_ValidTime.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\bin\Debug\net7.0\Mosh's_ValidTime.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\bin\Debug\net7.0\Mosh's_ValidTime.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\refint\Mosh's_ValidTime.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\Mosh's_ValidTime.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ValidTime\obj\Debug\net7.0\ref\Mosh's_ValidTime.dll

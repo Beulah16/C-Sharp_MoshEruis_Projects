@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\bin\Debug\net7.0\Mosh's_LongestWord.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\bin\Debug\net7.0\Mosh's_LongestWord.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\bin\Debug\net7.0\Mosh's_LongestWord.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\bin\Debug\net7.0\Mosh's_LongestWord.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\bin\Debug\net7.0\Mosh's_LongestWord.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\refint\Mosh's_LongestWord.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\Mosh's_LongestWord.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_LongestWord\obj\Debug\net7.0\ref\Mosh's_LongestWord.dll

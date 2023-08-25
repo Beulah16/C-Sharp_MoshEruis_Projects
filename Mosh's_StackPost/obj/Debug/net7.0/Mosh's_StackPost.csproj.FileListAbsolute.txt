@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\bin\Debug\net7.0\Mosh's_StackPost.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\bin\Debug\net7.0\Mosh's_StackPost.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\bin\Debug\net7.0\Mosh's_StackPost.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\bin\Debug\net7.0\Mosh's_StackPost.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\bin\Debug\net7.0\Mosh's_StackPost.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\refint\Mosh's_StackPost.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\Mosh's_StackPost.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_StackPost\obj\Debug\net7.0\ref\Mosh's_StackPost.dll

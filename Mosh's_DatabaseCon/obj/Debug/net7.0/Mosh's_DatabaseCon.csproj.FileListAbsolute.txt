@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\bin\Debug\net7.0\Mosh's_DatabaseCon.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\bin\Debug\net7.0\Mosh's_DatabaseCon.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\bin\Debug\net7.0\Mosh's_DatabaseCon.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\bin\Debug\net7.0\Mosh's_DatabaseCon.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\bin\Debug\net7.0\Mosh's_DatabaseCon.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\refint\Mosh's_DatabaseCon.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\Mosh's_DatabaseCon.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_DatabaseCon\obj\Debug\net7.0\ref\Mosh's_DatabaseCon.dll

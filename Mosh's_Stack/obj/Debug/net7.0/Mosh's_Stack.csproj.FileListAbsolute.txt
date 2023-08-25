@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\bin\Debug\net7.0\Mosh's_Stack.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\bin\Debug\net7.0\Mosh's_Stack.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\bin\Debug\net7.0\Mosh's_Stack.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\bin\Debug\net7.0\Mosh's_Stack.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\bin\Debug\net7.0\Mosh's_Stack.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\refint\Mosh's_Stack.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\Mosh's_Stack.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stack\obj\Debug\net7.0\ref\Mosh's_Stack.dll

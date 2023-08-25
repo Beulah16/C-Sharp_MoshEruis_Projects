@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Mosh_s_ReadTextFile
-build_property.ProjectDir = c:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_ReadTextFile\
+build_property.RootNamespace = Mosh_s_WorkflowEngine
+build_property.ProjectDir = C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\

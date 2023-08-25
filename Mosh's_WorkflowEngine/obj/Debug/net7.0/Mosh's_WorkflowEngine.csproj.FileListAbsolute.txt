@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\bin\Debug\net7.0\Mosh's_WorkflowEngine.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\bin\Debug\net7.0\Mosh's_WorkflowEngine.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\bin\Debug\net7.0\Mosh's_WorkflowEngine.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\bin\Debug\net7.0\Mosh's_WorkflowEngine.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\bin\Debug\net7.0\Mosh's_WorkflowEngine.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\refint\Mosh's_WorkflowEngine.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\Mosh's_WorkflowEngine.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_WorkflowEngine\obj\Debug\net7.0\ref\Mosh's_WorkflowEngine.dll

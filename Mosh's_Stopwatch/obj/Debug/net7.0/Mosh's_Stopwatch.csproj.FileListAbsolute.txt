@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\bin\Debug\net7.0\Mosh's_Stopwatch.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\bin\Debug\net7.0\Mosh's_Stopwatch.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\bin\Debug\net7.0\Mosh's_Stopwatch.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\bin\Debug\net7.0\Mosh's_Stopwatch.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\bin\Debug\net7.0\Mosh's_Stopwatch.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\refint\Mosh's_Stopwatch.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\Mosh's_Stopwatch.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Eruisaku_Projects\Mosh's_Stopwatch\obj\Debug\net7.0\ref\Mosh's_Stopwatch.dll
